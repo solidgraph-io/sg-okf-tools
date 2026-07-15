@@ -5,7 +5,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/) and the
 package follows [semver](https://semver.org/). The OKF *bundle* version
 (`okf_version` in your root `index.md`) is independent of this tool's version.
 
-## [0.1.0] — 2026-07-15
+## [0.1.0-beta.0] — 2026-07-15
 
 ### Added
 

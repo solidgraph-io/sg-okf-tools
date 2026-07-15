@@ -1,6 +1,6 @@
 {
   "name": "@solidgraph-io/okf-tools",
-  "version": "0.1.0",
+  "version": "0.1.0-beta.0",
   "description": "CLI + library for Open Knowledge Format (OKF) knowledge bundles: conformance checking, progressive-disclosure indexes and a cross-link codemod. Config-driven, zero assumptions about your repo layout.",
   "type": "module",
   "license": "MIT",
